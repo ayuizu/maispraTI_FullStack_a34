@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.hero{
+    display: grid;
+    grid-template-columns: 10% 80% 10%;
+
+}
+.hero img{
+    position: absolute;
+    top: 10%;
+    width: 80%;
+}
